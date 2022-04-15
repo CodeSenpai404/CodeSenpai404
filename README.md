@@ -3,11 +3,16 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
+- 📫 How to reach me **a.davila.berrios.123@gmail.com**
+
 - ⚡ Fun fact **I love watching anime.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/alexisdavilabe1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexisdavilabe1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alexis-davila-berrios-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexis-davila-berrios-dev/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18808294/alexis-d%c3%a1vila-berrios?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18808294/alexis-d%c3%a1vila-berrios?tab=profile" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucuyveb6e-lhm_gcwsbutdcg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucuyveb6e-lhm_gcwsbutdcg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
