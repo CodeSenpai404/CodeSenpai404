@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
 <h3 align="center">A passionate web developer from Puerto Rico</h3>
 
-- 🌱 I’m currently learning **Unreal Engine 5**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **a.davila.berrios.123@gmail.com**
 
